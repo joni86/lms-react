@@ -1,0 +1,48 @@
+.login--wrapper{
+    background-color:#e6e7e8;
+    height:100%;
+}
+.login_title{
+    margin:0 auto;
+    width: 150px;
+    padding-top: 60px;
+}
+.login_title--text{
+margin-top: 5px;
+}
+.login_content{
+    margin:0 auto;
+    width: 400px;
+}
+.login_form{
+    margin: 0 auto;
+    width:360px;
+}
+.form--sign_up{
+    padding-top: 6px;
+}
+.form--link{
+
+    -webkit-text-decoration-line: underline; /* Safari */
+     text-decoration-line: underline; 
+}
+.form_incorrect{
+    margin-left: 20px;
+}
+.form--bottom{
+    margin-top:20px;
+}
+.form--bottom_line{
+    border-top: 1px solid;
+    margin:0 auto;
+    width: 360px;
+    padding:12px;
+    text-align: center;
+}
+.footer_link{
+    font-size: 0.6875rem;
+    padding:0 6px;
+    color: black;
+    -webkit-text-decoration-line: underline; /* Safari */
+     text-decoration-line: underline; 
+}
